@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/vintagechrono-31029-99f320fe/vintage_chrono_ui"
+}
